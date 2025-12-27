@@ -61,10 +61,4 @@ I am a results-driven full-stack developer focused on building scalable, product
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarthakbhuptani123&show_icons=true)
-
----
-
 ⭐ *Open to full-time roles, internships, and freelance opportunities*
