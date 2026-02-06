@@ -51,10 +51,6 @@ I am a results-driven **Full-Stack Developer** and a **Final Year Student**. I f
 
 ---
 
-
-
----
-
 ## 🤝 Connect With Me
 * 🌐 **Portfolio:** [sarthak-bhuptani.netlify.app](https://sarthak-bhuptani.netlify.app/)
 * 💼 **LinkedIn:** [Sarthak Bhuptani](https://www.linkedin.com/in/sarthak-bhuptani-8a232a247/)
