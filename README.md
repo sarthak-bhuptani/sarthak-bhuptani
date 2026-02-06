@@ -32,8 +32,8 @@ I am a results-driven **Full-Stack Developer** and a **Final Year Student**. I f
 
 ## 💼 Professional Experience
 * **Vischara Ventures Pvt. Ltd.** | *Full-Stack Developer* | Oct 2025 – Present
-    * Developing and maintaining web applications in a production environment at Infocity, Gandhinagar.
-    * Collaborating on full-stack solutions using modern frameworks and systematic debugging.
+    * Developing web applications in a production environment at Infocity, Gandhinagar.
+    * Delivering full-stack solutions and systematic debugging.
 
 ---
 
@@ -47,13 +47,14 @@ I am a results-driven **Full-Stack Developer** and a **Final Year Student**. I f
 
 ## 🏆 Hackathons & Community
 * **AutonomousHacks (Gandhinagar)**: Participated in the GDG Hacks event, focusing on building impactful technical solutions.
-* **3+ Major Projects**: Successfully delivered multiple production-ready applications featured on my portfolio.
+* **3+ Major Projects**: Successfully delivered multiple production-ready applications.
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak-bhuptani-8a232a247&show_icons=true&theme=dark" alt="Sarthak's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Sarthak's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
 
 ---
@@ -61,4 +62,4 @@ I am a results-driven **Full-Stack Developer** and a **Final Year Student**. I f
 ## 🤝 Connect With Me
 * 🌐 **Portfolio:** [sarthak-bhuptani.netlify.app](https://sarthak-bhuptani.netlify.app/)
 * 💼 **LinkedIn:** [Sarthak Bhuptani](https://www.linkedin.com/in/sarthak-bhuptani-8a232a247/)
-* 📧 **Email:** [mrsarthak825@gmail.com](mailto:mrsarthak825@gmail.com)
+* 📧 **Email:** mrsarthak825@gmail.com
